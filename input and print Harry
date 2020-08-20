@@ -1,0 +1,12 @@
+# Read a string:
+a = input()
+#output string
+print("Hello,",a)
+
+
+Python 3.8.2 (default, Feb 26 2020, 02:56:10)
+   
+ Harry
+Hello, Harry
+=> None
+   
