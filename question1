@@ -1,0 +1,16 @@
+# This program reads two numbers and prints their sum:
+a = int(input())
+b = int(input())
+c=int(input())
+sum=a+b+c
+print(sum)
+
+output
+Python 3.8.2 (default, Feb 26 2020, 02:56:10)
+   
+ 2
+ 3
+ 6
+11
+=> None
+   
