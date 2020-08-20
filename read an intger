@@ -1,0 +1,16 @@
+# Read an integer:
+a=int(input())
+#print a value
+print("current:",a)
+print("previous:",a-1)
+print("next:",a+1)
+
+
+Python 3.8.2 (default, Feb 26 2020, 02:56:10)
+   
+ 179
+current: 179
+previous: 178
+next: 180
+=> None
+    
